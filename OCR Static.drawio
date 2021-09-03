@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T07:40:09.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.58 Safari/537.36" etag="6NmLueu2BFsXN_FgpCRN" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-03T07:42:02.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.58 Safari/537.36" etag="gbqc96o1YZj_bUNr5RC9" version="15.0.3" type="github">
   <diagram id="qI3K_Uz87h1mgmMob4T7" name="Page-1">
     <mxGraphModel dx="2070" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -389,7 +389,7 @@
           <mxGeometry x="520" y="1950" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DGwdXt28PYoHutAeJOW6-65" value="&lt;font style=&quot;font-size: 12px&quot;&gt;*V2 CPU belum pernah dites concurent dengan high CPU Core&lt;br&gt;*Pernah di tes di spek DEV, bagus saat single-thread, jelek saat multi-thread&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="460" y="100" width="410" height="20" as="geometry" />
+          <mxGeometry x="410" y="100" width="410" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
